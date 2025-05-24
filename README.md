@@ -53,6 +53,17 @@ This project analyzes the U.S. subset of the Global Superstore dataset to predic
 
 ---
 
+## 🎥 Video Presentation
+
+📺 [Watch the full walkthrough (MP4)](https://drive.google.com/file/d/1o7LFo2dzbRUlahEIhJANWun3-1wlWyCe/view?usp=sharing)
+
+---
+
+## 📊 Slide Deck
+
+📂 [Download Presentation (PPTX)](https://docs.google.com/presentation/d/1Ybq63fRh90dfVeuFERJSiSDJreWYr_80/edit?usp=sharing&ouid=117504953909159201245&rtpof=true&sd=true)
+
+
 ## 👨‍💻 Author
 
 **Phanidhar Venkata Naga Kasuba**  
